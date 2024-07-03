@@ -1,4 +1,47 @@
 <h1>Club Management</h1>
+<h2>Overview</h2>
+The Club Management System is a web-based application designed to streamline the registration, management, and communication processes within a club environment. This platform provides functionalities for both students and administrators, ensuring efficient management and engagement.
+
+<h2>Features</h2>
+<h3>Student Registration:<h3>
+
+--Students can create an account on the platform.
+--Registered students can join various clubs.
+<h3>Club Registration:</h3>
+
+--Students can register for different clubs based on their interests.
+<h3>Admin Dashboard:</h3>
+
+<h5>Student Management:<h5>
+---View details of registered students.
+---Edit and update student information.
+---Delete student records if necessary.
+<h5>Feedback Management:</h5>
+---View feedback provided by students.
+<h5>Idea Management:</h5>
+--Review ideas submitted by students for club activities or improvements.
+<h5>Announcements:</h5>
+--Circulate announcements related to events, activities, or important updates.
+<h3>Workflow</h3>
+<h5>Student Workflow:</h5>
+
+*Sign up on the platform.
+*Log in and browse available clubs.
+*Register for desired clubs.
+*Provide feedback and submit ideas to improve club activities.
+<h5>Admin Workflow:</h5>
+
+*Log in to the admin dashboard.
+*Manage student registrations and details.
+*Review and manage student feedback and ideas.
+*Create and circulate announcements to all or specific clubs.
+<h3>Technical Stack</h3>
+Frontend:
+ .jsp file-for building user interfaces.
+Backend:
+servelet for server-side operations.
+Database:
+Oracle- for storing user, club, feedback, and idea data.
 <h3>Home Page</h3>
 
 
