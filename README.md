@@ -54,7 +54,7 @@
 
 
 
-<h>Login</h>
+<h3>Login</h3>
 
 
 
@@ -63,6 +63,18 @@
 ![Screenshot (85)](https://github.com/Dhanada-Panda/club-management/assets/130206432/37d01dc7-1837-45df-8afd-189fc3ce5cf7)
 
 
+<h3>Admin DashBoard</h3>
+
+
+![Screenshot (86)](https://github.com/Dhanada-Panda/club-management/assets/130206432/c9beeca2-cf01-4b5d-855e-0a971aae9516)
+
+
+
+<h3>Student DashBoard</h3>
+
+
+
+![Screenshot (87)](https://github.com/Dhanada-Panda/club-management/assets/130206432/c663b27f-926a-4281-a771-1c1963398627)
 
 
 
